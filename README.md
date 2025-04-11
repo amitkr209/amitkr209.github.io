@@ -10,10 +10,9 @@ I'm Amit, passionate about **_Project management_**, **_Data Analytics_**, and *
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/amitkr209)
-- [Twitter](https://twitter.com/amitkr209)
-- [Others Links](https://linktr.ee/amitkr209)
+- [Other Links](https://linktr.ee/amitkr209)
 
 ### How to Reach Me
 
-Feel free to email me at **amitkr0429@gmail.com** if you have questions, or suggestions, or just want to chat.
+Feel free to email me at **amitkr0429@gmail.com** if you have questions, suggestions, or just want to chat.
 I'm always open to connecting with fellow developers and enthusiasts!
